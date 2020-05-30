@@ -1,0 +1,197 @@
+{
+  "voter": [
+    {
+      "V-id": "v1"
+    },
+    {
+      "V-id": "v2"
+    },
+    {
+      "V-id": "v3"
+    },
+    {
+      "V-id": "v4"
+    },
+    {
+      "V-id": "v5"
+    },
+    {
+      "V-id": "v6"
+    },
+    {
+      "V-id": "v7"
+    },
+    {
+      "V-id": "v8"
+    },
+    {
+      "V-id": "v9"
+    },
+    {
+      "V-id": "v10"
+    }
+  ],
+  "Motion": [
+    {
+      "M-id": "m1",
+      "Text": "motion1",
+      "votes": 10,
+      "in-favour": 6
+    },
+    {
+      "M-id": "m2",
+      "Text": "motion2",
+      "votes": 5,
+      "in-favour": 3
+    },
+    {
+      "M-id": "m3",
+      "Text": "motion3",
+      "votes": 5,
+      "in-favour": 3
+    }
+  ],
+  "VotingRecord": [
+    {
+      "M-id": "m1",
+      "V-id": "v1",
+      "Vr-id": "rd1",
+      "vote-cast": true,
+      "voted-yes": false
+    },
+    {
+      "M-id": "m1",
+      "V-id": "v2",
+      "Vr-id": "rd2",
+      "vote-cast": true,
+      "voted-yes": true
+    },
+    {
+      "M-id": "m1",
+      "V-id": "v3",
+      "Vr-id": "rd3",
+      "vote-cast": true,
+      "voted-yes": false
+    },
+    {
+      "M-id": "m1",
+      "V-id": "v4",
+      "Vr-id": "rd4",
+      "vote-cast": true,
+      "voted-yes": true
+    },
+    {
+      "M-id": "m1",
+      "V-id": "v5",
+      "Vr-id": "rd5",
+      "vote-cast": true,
+      "voted-yes": false
+    },
+    {
+      "M-id": "m1",
+      "V-id": "v6",
+      "Vr-id": "rd6",
+      "vote-cast": true,
+      "voted-yes": true
+    },
+    {
+      "M-id": "m1",
+      "V-id": "v7",
+      "Vr-id": "rd7",
+      "vote-cast": true,
+      "voted-yes": false
+    },
+    {
+      "M-id": "m1",
+      "V-id": "v8",
+      "Vr-id": "rd8",
+      "vote-cast": true,
+      "voted-yes": true
+    },
+    {
+      "M-id": "m1",
+      "V-id": "v9",
+      "Vr-id": "rd9",
+      "vote-cast": true,
+      "voted-yes": true
+    },
+    {
+      "M-id": "m1",
+      "V-id": "v10",
+      "Vr-id": "rd10",
+      "vote-cast": true,
+      "voted-yes": true
+    },
+    {
+      "M-id": "m2",
+      "V-id": "v1",
+      "Vr-id": "rd11",
+      "vote-cast": true,
+      "voted-yes": false
+    },
+    {
+      "M-id": "m2",
+      "V-id": "v2",
+      "Vr-id": "rd12",
+      "vote-cast": true,
+      "voted-yes": true
+    },
+    {
+      "M-id": "m2",
+      "V-id": "v3",
+      "Vr-id": "rd13",
+      "vote-cast": true,
+      "voted-yes": false
+    },
+    {
+      "M-id": "m2",
+      "V-id": "v4",
+      "Vr-id": "rd14",
+      "vote-cast": true,
+      "voted-yes": true
+    },
+    {
+      "M-id": "m2",
+      "V-id": "v5",
+      "Vr-id": "rd15",
+      "vote-cast": true,
+      "voted-yes": true
+    },
+    {
+      "M-id": "m3",
+      "V-id": "v6",
+      "Vr-id": "rd16",
+      "vote-cast": true,
+      "voted-yes": false
+    },
+    {
+      "M-id": "m3",
+      "V-id": "v7",
+      "Vr-id": "rd17",
+      "vote-cast": true,
+      "voted-yes": true
+    },
+    {
+      "M-id": "m3",
+      "V-id": "v8",
+      "Vr-id": "rd18",
+      "vote-cast": true,
+      "voted-yes": false
+    },
+    {
+      "M-id": "m3",
+      "V-id": "v9",
+      "Vr-id": "rd19",
+      "vote-cast": true,
+      "voted-yes": true
+    },
+    {
+      "M-id": "m3",
+      "V-id": "v10",
+      "Vr-id": "rd20",
+      "vote-cast": true,
+      "voted-yes": true
+    }
+  ],
+  "Voting Record": []
+}
